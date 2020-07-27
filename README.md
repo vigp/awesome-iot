@@ -26,7 +26,7 @@
 - smart bulb
 - amazon alexa
 - fitbit
-- google NEST (thermostat, doorbell, cameras, dock lock, alaram system, etc.)
+- google NEST (thermostat, doorbell, cameras, door lock, alarm system, etc.)
 - google glass
 - amazon echo
 - smart cameras (gopro, etc.)
